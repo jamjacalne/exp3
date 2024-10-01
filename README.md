@@ -21,4 +21,4 @@ indexing operations.
 -  How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
 -   Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 
 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
-- The same DataFrame was utilized to address the problems by applying indexing syntax. By specifying the required indices and columns, and performing the necessary arithmetic operations, the problem was effectively resolved.
+- The same DataFrame was utilized to address the problems by applying indexing syntax. By specifying the required indices and columns, and performing necessary arithmetic operations, the problem was effectively resolved.
